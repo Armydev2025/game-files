@@ -57,5 +57,7 @@
     "StreamMemFix2.2_test1.asi",
     "StreamMemFix2.2_test2.asi",
     "stream.ini",
-    "temp_game.zip"
+    "temp_game.zip",
+    "cleo_sdk",
+    "SAMPFUNCS"
 ]
