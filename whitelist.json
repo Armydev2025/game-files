@@ -55,5 +55,6 @@
     "StreamMemFix.asi",
     "StreamMemFix1.0.asi",
     "StreamMemFix2.2_test1.asi",
-    "StreamMemFix2.2_test2.asi"
+    "StreamMemFix2.2_test2.asi",
+    "stream.ini"
 ]
